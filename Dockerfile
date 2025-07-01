@@ -24,6 +24,7 @@ ARG UID=1000
 RUN adduser --disabled-password --gecos '' --uid ${UID} ${USERNAME}
 USER ${USERNAME}
 
+
 WORKDIR /workspace
 ENV PYTHONPATH=/workspace \
     AUDIOCRAFT_TEAM=default
