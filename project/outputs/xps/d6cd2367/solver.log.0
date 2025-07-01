@@ -1,0 +1,64 @@
+[[36m06-29 22:06:13[0m][[34mdora.distrib[0m][[32mINFO[0m] - world_size is 1, skipping init.[0m
+[[36m06-29 22:06:13[0m][[34mflashy.solver[0m][[32mINFO[0m] - Instantiating solver MusicGenSolver for XP d6cd2367[0m
+[[36m06-29 22:06:13[0m][[34mflashy.solver[0m][[32mINFO[0m] - All XP logs are stored in /workspace/outputs/xps/d6cd2367[0m
+[[36m06-29 22:06:13[0m][[34maudiocraft.solvers.builders[0m][[32mINFO[0m] - Loading audio data split train: /workspace/audiocraft/audiocraft/egs/oud/train.jsonl[0m
+[[36m06-29 22:10:19[0m][[34mdora.distrib[0m][[32mINFO[0m] - world_size is 1, skipping init.[0m
+[[36m06-29 22:10:19[0m][[34mflashy.solver[0m][[32mINFO[0m] - Instantiating solver MusicGenSolver for XP d6cd2367[0m
+[[36m06-29 22:10:19[0m][[34mflashy.solver[0m][[32mINFO[0m] - All XP logs are stored in /workspace/outputs/xps/d6cd2367[0m
+[[36m06-29 22:10:19[0m][[34maudiocraft.solvers.builders[0m][[32mINFO[0m] - Loading audio data split train: /workspace/audiocraft/egs/oud/train.jsonl[0m
+[[36m06-29 22:10:19[0m][[34maudiocraft.solvers.builders[0m][[32mINFO[0m] - Loading audio data split valid: /workspace/audiocraft/egs/oud/train.jsonl[0m
+[[36m06-29 22:10:19[0m][[34maudiocraft.solvers.builders[0m][[32mINFO[0m] - Loading audio data split generate: /workspace/audiocraft/egs/oud/train.jsonl[0m
+[[36m06-29 22:10:19[0m][[34mroot[0m][[32mINFO[0m] - Getting pretrained compression model from HF facebook/encodec_32khz[0m
+[[36m06-29 22:10:25[0m][[34mflashy.solver[0m][[32mINFO[0m] - Compression model has 4 codebooks with 2048 cardinality, and a framerate of 50[0m
+[[36m06-29 22:10:25[0m][[34maudiocraft.modules.conditioners[0m][[32mINFO[0m] - T5 will be evaluated with autocast as float32[0m
+[[36m06-29 22:10:36[0m][[34maudiocraft.optim.dadam[0m][[32mINFO[0m] - Using decoupled weight decay[0m
+[[36m06-29 22:10:38[0m][[34mflashy.solver[0m][[32mINFO[0m] - Model hash: 73d9cb380004f059120d3ca296e1e3709d222c01[0m
+[[36m06-29 22:10:38[0m][[34mflashy.solver[0m][[32mINFO[0m] - Initializing EMA on the model with decay = 0.99 every 10 updates[0m
+[[36m06-29 22:10:38[0m][[34mflashy.solver[0m][[32mINFO[0m] - Model size: 420.37 M params[0m
+[[36m06-29 22:10:38[0m][[34mflashy.solver[0m][[32mINFO[0m] - Base memory usage, with model, grad and optim: 6.73 GB[0m
+[[36m06-29 22:10:38[0m][[34mflashy.solver[0m][[32mINFO[0m] - Restoring weights and history.[0m
+[[36m06-29 22:10:38[0m][[34mflashy.solver[0m][[32mINFO[0m] - Loading a pretrained model. Ignoring 'load_best' and 'ignore_state_keys' params.[0m
+[[36m06-29 22:10:54[0m][[34mflashy.solver[0m][[32mINFO[0m] - Checkpoint source is not the current xp: Load state_dict from best state.[0m
+[[36m06-29 22:10:54[0m][[34mflashy.solver[0m][[32mINFO[0m] - Ignoring keys when loading best [][0m
+[[36m06-29 22:10:54[0m][[34mflashy.solver[0m][[32mINFO[0m] - Loading state_dict from best state.[0m
+[[36m06-29 22:10:56[0m][[34mflashy.solver[0m][[32mINFO[0m] - Re-initializing EMA from best state[0m
+[[36m06-29 22:10:59[0m][[34mflashy.solver[0m][[32mINFO[0m] - Initializing EMA on the model with decay = 0.99 every 10 updates[0m
+[[36m06-29 22:11:01[0m][[34mflashy.solver[0m][[32mINFO[0m] - Model hash: 776d041cbbcb8973c4968782a79f9bb63b53a727[0m
+[[36m06-29 22:15:13[0m][[34mdora.distrib[0m][[32mINFO[0m] - world_size is 1, skipping init.[0m
+[[36m06-29 22:15:13[0m][[34mflashy.solver[0m][[32mINFO[0m] - Instantiating solver MusicGenSolver for XP d6cd2367[0m
+[[36m06-29 22:15:13[0m][[34mflashy.solver[0m][[32mINFO[0m] - All XP logs are stored in /workspace/outputs/xps/d6cd2367[0m
+[[36m06-29 22:15:13[0m][[34maudiocraft.solvers.builders[0m][[32mINFO[0m] - Loading audio data split train: /workspace/audiocraft/egs/oud/train.jsonl[0m
+[[36m06-29 22:15:13[0m][[34maudiocraft.solvers.builders[0m][[32mINFO[0m] - Loading audio data split valid: /workspace/audiocraft/egs/oud/train.jsonl[0m
+[[36m06-29 22:15:13[0m][[34maudiocraft.solvers.builders[0m][[32mINFO[0m] - Loading audio data split generate: /workspace/audiocraft/egs/oud/train.jsonl[0m
+[[36m06-29 22:15:13[0m][[34mroot[0m][[32mINFO[0m] - Getting pretrained compression model from HF facebook/encodec_32khz[0m
+[[36m06-29 22:15:13[0m][[34mflashy.solver[0m][[32mINFO[0m] - Compression model has 4 codebooks with 2048 cardinality, and a framerate of 50[0m
+[[36m06-29 22:15:13[0m][[34maudiocraft.modules.conditioners[0m][[32mINFO[0m] - T5 will be evaluated with autocast as float32[0m
+[[36m06-29 22:15:15[0m][[34maudiocraft.optim.dadam[0m][[32mINFO[0m] - Using decoupled weight decay[0m
+[[36m06-29 22:15:17[0m][[34mflashy.solver[0m][[32mINFO[0m] - Model hash: 73d9cb380004f059120d3ca296e1e3709d222c01[0m
+[[36m06-29 22:15:17[0m][[34mflashy.solver[0m][[32mINFO[0m] - Initializing EMA on the model with decay = 0.99 every 10 updates[0m
+[[36m06-29 22:15:17[0m][[34mflashy.solver[0m][[32mINFO[0m] - Model size: 420.37 M params[0m
+[[36m06-29 22:15:17[0m][[34mflashy.solver[0m][[32mINFO[0m] - Base memory usage, with model, grad and optim: 6.73 GB[0m
+[[36m06-29 22:15:17[0m][[34mflashy.solver[0m][[32mINFO[0m] - Restoring weights and history.[0m
+[[36m06-29 22:15:17[0m][[34mflashy.solver[0m][[32mINFO[0m] - Loading a pretrained model. Ignoring 'load_best' and 'ignore_state_keys' params.[0m
+[[36m06-29 22:15:18[0m][[34mflashy.solver[0m][[32mINFO[0m] - Checkpoint source is not the current xp: Load state_dict from best state.[0m
+[[36m06-29 22:15:18[0m][[34mflashy.solver[0m][[32mINFO[0m] - Ignoring keys when loading best [][0m
+[[36m06-29 22:15:18[0m][[34mflashy.solver[0m][[32mINFO[0m] - Loading state_dict from best state.[0m
+[[36m06-29 22:16:44[0m][[34mdora.distrib[0m][[32mINFO[0m] - world_size is 1, skipping init.[0m
+[[36m06-29 22:16:44[0m][[34mflashy.solver[0m][[32mINFO[0m] - Instantiating solver MusicGenSolver for XP d6cd2367[0m
+[[36m06-29 22:16:44[0m][[34mflashy.solver[0m][[32mINFO[0m] - All XP logs are stored in /workspace/outputs/xps/d6cd2367[0m
+[[36m06-29 22:16:44[0m][[34maudiocraft.solvers.builders[0m][[32mINFO[0m] - Loading audio data split train: /workspace/audiocraft/egs/oud/train.jsonl[0m
+[[36m06-29 22:16:44[0m][[34maudiocraft.solvers.builders[0m][[32mINFO[0m] - Loading audio data split valid: /workspace/audiocraft/egs/oud/train.jsonl[0m
+[[36m06-29 22:16:44[0m][[34maudiocraft.solvers.builders[0m][[32mINFO[0m] - Loading audio data split generate: /workspace/audiocraft/egs/oud/train.jsonl[0m
+[[36m06-29 22:16:44[0m][[34mroot[0m][[32mINFO[0m] - Getting pretrained compression model from HF facebook/encodec_32khz[0m
+[[36m06-29 22:16:45[0m][[34mflashy.solver[0m][[32mINFO[0m] - Compression model has 4 codebooks with 2048 cardinality, and a framerate of 50[0m
+[[36m06-29 22:16:45[0m][[34maudiocraft.modules.conditioners[0m][[32mINFO[0m] - T5 will be evaluated with autocast as float32[0m
+[[36m06-29 22:16:46[0m][[34maudiocraft.optim.dadam[0m][[32mINFO[0m] - Using decoupled weight decay[0m
+[[36m06-29 22:16:49[0m][[34mflashy.solver[0m][[32mINFO[0m] - Model hash: 73d9cb380004f059120d3ca296e1e3709d222c01[0m
+[[36m06-29 22:16:49[0m][[34mflashy.solver[0m][[32mINFO[0m] - Initializing EMA on the model with decay = 0.99 every 10 updates[0m
+[[36m06-29 22:16:49[0m][[34mflashy.solver[0m][[32mINFO[0m] - Model size: 420.37 M params[0m
+[[36m06-29 22:16:49[0m][[34mflashy.solver[0m][[32mINFO[0m] - Base memory usage, with model, grad and optim: 6.73 GB[0m
+[[36m06-29 22:16:49[0m][[34mflashy.solver[0m][[32mINFO[0m] - Restoring weights and history.[0m
+[[36m06-29 22:16:49[0m][[34mflashy.solver[0m][[32mINFO[0m] - Loading a pretrained model. Ignoring 'load_best' and 'ignore_state_keys' params.[0m
+[[36m06-29 22:16:50[0m][[34mflashy.solver[0m][[32mINFO[0m] - Checkpoint source is not the current xp: Load state_dict from best state.[0m
+[[36m06-29 22:16:50[0m][[34mflashy.solver[0m][[32mINFO[0m] - Ignoring keys when loading best [][0m
+[[36m06-29 22:16:50[0m][[34mflashy.solver[0m][[32mINFO[0m] - Loading state_dict from best state.[0m

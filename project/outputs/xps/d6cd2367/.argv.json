@@ -1,0 +1,1 @@
+["solver=musicgen/musicgen_base_32khz", "dset=audio/oud", "model/lm/model_scale=small", "optim.epochs=1", "continue_from=//pretrained/facebook/musicgen-small"]
