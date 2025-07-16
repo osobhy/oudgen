@@ -4,6 +4,7 @@ datasource:
   max_sample_rate: 44100
   max_channels: 2
 
-  train: egs/oud/train.jsonl
-  valid: egs/oud/train.jsonl        # or your own split
-  generate: egs/oud/train.jsonl
+  train: egs/oud
+  valid: egs/oud
+  generate: egs/oud
+  generate: egs/oud
