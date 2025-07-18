@@ -5,6 +5,6 @@ datasource:
   max_channels: 2
 
   train: egs/oud
-  valid: egs/eval
+  valid: egs/oud
   generate: egs/oud
-  evaluate: egs/eval
+  evaluate: egs/oud
