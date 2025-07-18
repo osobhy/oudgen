@@ -1,6 +1,6 @@
 {
     "title": "S1 Hijaz 13",
-    "style": "OmarAbbad",
+    "artist": "OmarAbbad",
     "maqam": "Hijaz",
     "section": "Peak",
     "secpos": "Core",
@@ -10,5 +10,7 @@
     "pace": "Moderate",
     "energy": "Calm",
     "modulation": "ModSaba",
-    "technique": "Silencing Tremolo Repeating"
+    "technique": "Silencing Tremolo Repeating",
+    "description": "Long, moderately paced core of the peak section in Hijaz maqam. Played in the middle register over a medium range with calm energy, it incorporates strategic silences, expressive tremolo passages, and repeated motifs, modulating to Saba."
+
 }

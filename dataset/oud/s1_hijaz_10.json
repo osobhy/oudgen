@@ -1,6 +1,6 @@
 {
     "title": "S1 Hijaz 10",
-    "style": "OmarAbbad",
+    "artist": "OmarAbbad",
     "maqam": "Hijaz",
     "section": "Peak",
     "secpos": "Beginning",
@@ -10,5 +10,6 @@
     "pace": "Moderate",
     "energy": "Intense",
     "modulation": "ModRastG",
-    "technique": "Repeating NonResolving"
+    "technique": "Repeating NonResolving",
+    "description": "Medium‑length, moderately paced yet intense opening of the peak section in Hijaz maqam. Played in the middle register over a medium range, it relies on repeated, deliberately non‑resolving phrases and modulates to Rast on G."
 }

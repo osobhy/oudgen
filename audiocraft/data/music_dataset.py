@@ -201,7 +201,7 @@ class MusicDataset(InfoAudioDataset):
 
     See `audiocraft.data.info_audio_dataset.InfoAudioDataset` for full initialization arguments.
     """
-    def __init__(self, *args, info_fields_required: bool = True,
+    def __init__(self, *args, info_fields_required: bool = False,
                  merge_text_p: float = 0., drop_desc_p: float = 0., drop_other_p: float = 0.,
                  joint_embed_attributes: tp.List[str] = [],
                  paraphrase_source: tp.Optional[str] = None, paraphrase_p: float = 0,

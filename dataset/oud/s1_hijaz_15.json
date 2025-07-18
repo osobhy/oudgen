@@ -1,6 +1,6 @@
 {
     "title": "S1 Hijaz 15",
-    "style": "OmarAbbad",
+    "artist": "OmarAbbad",
     "maqam": "Hijaz",
     "section": "Peak",
     "secpos": "Core",
@@ -13,5 +13,6 @@
         "ModSaba",
         "ModAjamBb"
     ],
-    "technique": "Silencing NonResolving"
+    "technique": "Silencing NonResolving",
+    "description": "Medium‑length, slow‑paced core of the peak section in Hijaz maqam. Played in the middle register over a medium range with steady energy, it features strategic silences and deliberately non‑resolving phrases, modulating to Saba and then Ajam on B‑flat."
 }

@@ -1,6 +1,6 @@
 {
     "title": "S1 Hijaz 6",
-    "style": "OmarAbbad",
+    "artist": "OmarAbbad",
     "maqam": "Hijaz",
     "section": "Opening",
     "secpos": "Core",
@@ -10,5 +10,7 @@
     "pace": "Slow",
     "energy": "Steady",
     "modulation": "ModNahawandG",
-    "technique": "Silencing DroneForth Sequencing"
+    "technique": "Silencing DroneForth Sequencing",
+    "description": "Long, slow‑paced oud improvisation in Hijaz maqam. Core part of the opening section, performed in a low register over a medium melodic range with steady energy. Features silences, sustained drone‑on‑the‑fourth, and sequencing motifs, and modulates to Nahawand on G."
+
 }

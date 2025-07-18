@@ -1,6 +1,6 @@
 {
     "title": "S1 Hijaz 9",
-    "style": "OmarAbbad",
+    "artist": "OmarAbbad",
     "maqam": "Hijaz",
     "section": "Peak",
     "secpos": "Beginning",
@@ -13,5 +13,7 @@
         "ModNahawandG",
         "ModRastG"
     ],
-    "technique": "Silencing DroneForth Sequencing NonResolving"
+    "technique": "Silencing DroneForth Sequencing NonResolving",
+    "description": "Long, slow‑paced passage marking the opening of the peak section in Hijaz maqam. Played in the middle register across a medium range with steady energy, it employs strategic silences, a sustained drone on the fourth degree, sequencing gestures, and intentionally non‑resolving phrases, modulating first to Nahawand on G and then to Rast on G."
+
 }

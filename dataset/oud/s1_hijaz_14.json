@@ -1,6 +1,6 @@
 {
     "title": "S1 Hijaz 14",
-    "style": "OmarAbbad",
+    "artist": "OmarAbbad",
     "maqam": "Hijaz",
     "section": "Peak",
     "secpos": "Core",
@@ -10,5 +10,6 @@
     "pace": "Slow",
     "energy": "Calm",
     "modulation": "ModSaba",
-    "technique": "Sequencing Silencing"
+    "technique": "Sequencing Silencing",
+    "description": "Medium‑length, slow‑paced core of the peak section in Hijaz maqam. Played in the middle register over a medium range with calm energy, it features sequencing motifs and strategic silences, modulating to Saba."
 }
