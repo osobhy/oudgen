@@ -1,0 +1,17 @@
+{
+    "path": "/mnt/data/s1_hijaz_9.txt",
+    "style": "OmarAbbad",
+    "maqam": "Hijaz",
+    "section": "Peak",
+    "secpos": "Beginning",
+    "register": "Middle",
+    "range": "Medium",
+    "length": "Long",
+    "pace": "Slow",
+    "energy": "Steady",
+    "modulation": [
+        "ModNahawandG",
+        "ModRastG"
+    ],
+    "technique": "Silencing DroneForth Sequencing NonResolving"
+}

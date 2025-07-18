@@ -1,0 +1,17 @@
+{
+    "path": "/mnt/data/s1_hijaz_15.txt",
+    "style": "OmarAbbad",
+    "maqam": "Hijaz",
+    "section": "Peak",
+    "secpos": "Core",
+    "register": "Middle",
+    "range": "Medium",
+    "length": "Medium",
+    "pace": "Slow",
+    "energy": "Steady",
+    "modulation": [
+        "ModSaba",
+        "ModAjamBb"
+    ],
+    "technique": "Silencing NonResolving"
+}
