@@ -16,6 +16,11 @@ docker run --rm -it --gpus all --ipc=host \
   -e AUDIOCRAFT_CACHE_DIR=/workspace/cache \
   oudgen:latest```
 
+# make necessary musicgen manifsests
+python3 -m audiocraft.data.audio_dataset \
+    /workspace/audiocraft/dataset/oud \
+    /workspace/audiocraft/egs/oud/train.jsonl
+
 # finetune
 dora run \
   solver=musicgen/musicgen_base_32khz \
